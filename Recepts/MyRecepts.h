@@ -116,7 +116,6 @@ namespace Recepts {
 		}
 #pragma endregion
 	
-
 	private: System::Void close_button_Click(System::Object^ sender, System::EventArgs^ e) {
 		this->Close();
 	}
